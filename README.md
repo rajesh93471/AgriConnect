@@ -1,5 +1,7 @@
 # AgriConnect
 #Login
-<img width="1920" height="1020" alt="Screenshot 2025-08-13 135029" src="https://github.com/user-attachments/assets/3b45a674-73a1-4770-be4c-277def8a1138" />
+<img width="1920" height="1020" alt="Screenshot 2025-08-13 145448" src="https://github.com/user-attachments/assets/92371b73-90cf-478f-92c8-90e7427881e2" />
+
 #Sign-in
-<img width="1920" height="1020" alt="Screenshot 2025-08-13 135041" src="https://github.com/user-attachments/assets/9f34e098-eb6f-4f8f-aa6b-b75b67870ffd" />
+<img width="1920" height="1020" alt="Screenshot 2025-08-13 145454" src="https://github.com/user-attachments/assets/f00c9ec0-1bc9-4dcf-b515-d688a59db8af" />
+
